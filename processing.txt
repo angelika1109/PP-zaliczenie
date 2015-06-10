@@ -17,7 +17,7 @@ Temat:Śpiewajce koty
 Opis : kosmos (tlo), trzy gowy grumpy kotow (obrazki) po kliknieciu na glowe wydaja różne dźwieki, mozna na nich grac jak na "pianinie" 
 
 
-to kosmos
+tlo kosmos
 po kliknieciu na start pojawiaja sie trzy glowy kotow
 klikamy na koty - "spiewaja"
 petla
